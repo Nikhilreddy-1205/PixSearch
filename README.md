@@ -6,7 +6,7 @@ A simple and clean React application that allows users to search for images usin
 
 ## Live Demo (Netlify Deployment)
 
-**Live App:** [PixSearch] (https://phenomenal-sopapillas-eb4a40.netlify.app)
+**Live App:** [PixSearch](https://phenomenal-sopapillas-eb4a40.netlify.app)
 
 ---
 
@@ -27,7 +27,7 @@ A simple and clean React application that allows users to search for images usin
 - **JavaScript (ES6+)**
 - **Vite**
 - **Pixabay API**
-- **CSS Grid**
+- **Html & CSS**
 
 ---
 
